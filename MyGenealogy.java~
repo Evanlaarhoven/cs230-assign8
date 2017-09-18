@@ -1,0 +1,15 @@
+/*
+ * MyGenealogy.java
+ * Emily Van Laarhoven
+ * CS230 Assign 8 Task 2b
+ * Due: 11/21/16 11:59pm
+ */
+
+public class MyGenealogy {
+  
+  public static void main (String [] args) {
+    
+    
+  }
+  
+}

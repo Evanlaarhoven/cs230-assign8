@@ -1,0 +1,43 @@
+Welcome to DrJava.  Working directory is C:\Users\Emily\Desktop\Assign8_evanlaar
+> run MyGenealogy
+My genealogy contains 15 members: 
+me
+dad
+mom
+Pop
+Nanny Re
+Grandpa
+Grandma
+Will
+Jean
+Amby
+Lil
+Joe
+Ginny
+John
+Julia
+
+Who is at the root?
+me
+Who are my parents?
+dad
+mom
+Who is mom's offspring?
+me
+Who is dad's offspring?
+me
+My maternal grandmother is Grandma
+My maternal grandfather is Nanny Re
+My paternal grandmother is Grandpa
+My paternal grandfather is Pop
+My maternal great-grandmother is Julia
+My paternal great-grandmother is Lil
+My maternal great-grandfather is John
+My paternal great-grandfather is Amby
+Are Pop and Grandma in-laws? (true)
+true
+Are Amby and Ginny in-laws? (false)
+false
+Are Nanny Re and Grandpa in-laws? (true)
+true
+> 

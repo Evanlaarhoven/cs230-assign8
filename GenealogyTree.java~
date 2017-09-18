@@ -1,0 +1,15 @@
+/*
+ * GenealogyTree.java
+ * Emily Van Laarhoven
+ * CS230 PSet 8 Task 2
+ * Due: 11/21/16 11:59pm
+ */
+
+import java.util.Iterator;
+
+public class GenealogyTree<T> implements AncestryTree<T>, Iterable<T> {
+  
+  //instanc variables
+  T[] array;  //array of type T for computed links 
+  int count; //number of nodes in tree
+  ArrayIterator<T> iterator;
